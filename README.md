@@ -5,7 +5,7 @@
 
 # Command
 - git clone https://github.com/namoradigital/grassbot.git
-- cd GrassAutoFarming
+- cd grassbot
 - pip install -r requirements.txt
 - python run_http.py
 - python run_socks4.py
